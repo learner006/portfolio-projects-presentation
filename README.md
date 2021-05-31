@@ -20,13 +20,18 @@ VIDEOS
 ======
 The [__video__](https://github.com/learner006/portfolio-projects-presentation/tree/main/video) directory is a place for stunning videos! :-)
 
+003 Project cards
+-----------------
+Would you like to take a look at [__003-project-card-stars.mp4__](https://github.com/learner006/portfolio-projects-presentation/blob/main/video/003-project-card-stars.mp4) file? ;-)
+
+
 002 Random post (Yoga theme frontend)
 ------------------------------------
-You could watch the [002-yogatheme.mp4](https://github.com/learner006/portfolio-projects-presentation/blob/main/video/002-yogatheme.mp4) file.
+You could watch the [__002-yogatheme.mp4__](https://github.com/learner006/portfolio-projects-presentation/blob/main/video/002-yogatheme.mp4) file.
 
 004 SVG animation (Effect for carousel)
 ---------------------------------------
-Please take a look at [004-effect.webm](https://github.com/learner006/portfolio-projects-presentation/blob/main/video/004-effect.webm) file.
+Please take a look at the [__004-effect.mp4__](https://github.com/learner006/portfolio-projects-presentation/blob/main/video/004-effect.mp4) file.
 
 
 SCREENSHOTS
