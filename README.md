@@ -35,13 +35,22 @@ You could find all the amazing pictures in the __pic__ directory! :-)
 
 001 Factory shop
 ----------------
-* 001-shop3-wide-90pc.png
-* 001-shop3-wide-extra-narrow.png
-* 001-shop3-wide-medium.png
-* 001-shop3-wide-narrow.png
+001-shop3-wide-90pc.png
+![001-shop3-wide-90pc.png](https://github.com/learner006/portfolio-projects-presentation/blob/main/pic/001-shop3-wide-90pc.png)
+
+001-shop3-wide-medium.png
+![001-shop3-wide-medium.png](https://github.com/learner006/portfolio-projects-presentation/blob/main/pic/001-shop3-wide-medium.png)
+
+001-shop3-wide-narrow.png
+![001-shop3-wide-narrow.png](https://github.com/learner006/portfolio-projects-presentation/blob/main/pic/001-shop3-wide-narrow.png)
+
+001-shop3-wide-extra-narrow.png
+![001-shop3-wide-extra-narrow.png](https://github.com/learner006/portfolio-projects-presentation/blob/main/pic/001-shop3-wide-extra-narrow.png)
 
 003 Project cards
 -----------------
-project-card-examples.png
+003-project-card-examples.png
+![project-card-examples.png](https://github.com/learner006/portfolio-projects-presentation/blob/main/pic/https://github.com/learner006/portfolio-projects-presentation/blob/main/pic/003-project-card-examples.png)
+
 
 Thanks for reading it! :-)
