@@ -18,20 +18,20 @@ All the sites have a responsive design (through the CSS' media queries).
 
 VIDEOS
 ======
-The __video__ directory is a place for stunning videos! :-)
+The [__video__](https://github.com/learner006/portfolio-projects-presentation/tree/main/video) directory is a place for stunning videos! :-)
 
 002 Random post (Yoga theme frontend)
 ------------------------------------
-You could watch the 003-yogatheme.mp4 file.
+You could watch the [002-yogatheme.mp4](https://github.com/learner006/portfolio-projects-presentation/blob/main/video/002-yogatheme.mp4) file.
 
 004 SVG animation (Effect for carousel)
 ---------------------------------------
-Please take a look at 004-effect.webm file.
+Please take a look at [004-effect.webm](https://github.com/learner006/portfolio-projects-presentation/blob/main/video/004-effect.webm) file.
 
 
 SCREENSHOTS
 ===========
-You could find all the amazing pictures in the __pic__ directory! :-)
+You could find all the amazing pictures in the [__pic__](https://github.com/learner006/portfolio-projects-presentation/tree/main/pic) directory! :-)
 
 001 Factory shop
 ----------------
@@ -50,7 +50,7 @@ You could find all the amazing pictures in the __pic__ directory! :-)
 003 Project cards
 -----------------
 003-project-card-examples.png
-![project-card-examples.png](https://github.com/learner006/portfolio-projects-presentation/blob/main/pic/https://github.com/learner006/portfolio-projects-presentation/blob/main/pic/003-project-card-examples.png)
+![project-card-examples.png](https://github.com/learner006/portfolio-projects-presentation/blob/main/pic/003-project-card-examples.png)
 
 
 Thanks for reading it! :-)
